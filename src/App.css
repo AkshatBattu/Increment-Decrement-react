@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.quantity_input{
+  text-align: center;
+  width: 30px;
+  padding: 6px;
+  border: blanchedalmond;
+}
+.quantity_plus{
+  text-align: center;
+    width: 40px;
+    padding: 6px;
+    background: #0093ff;
+    color: antiquewhite;
+    font-weight: 800;
+    border: aliceblue;
+}
+.quantity_minus{
+  text-align: center;
+  width: 40px;
+  padding: 6px;
+  background: #f34036;
+  color: antiquewhite;
+  font-weight: 800;
+  border: aliceblue;
+}
